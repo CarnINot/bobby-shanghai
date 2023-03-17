@@ -1,0 +1,2 @@
+# bobby-shanghai
+AI Philosopher
